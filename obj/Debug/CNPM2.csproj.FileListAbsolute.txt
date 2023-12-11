@@ -1,0 +1,9 @@
+C:\Users\admin\OneDrive\Máy tính\CNPM2\bin\Debug\CNPM2.exe.config
+C:\Users\admin\OneDrive\Máy tính\CNPM2\bin\Debug\CNPM2.exe
+C:\Users\admin\OneDrive\Máy tính\CNPM2\bin\Debug\CNPM2.pdb
+C:\Users\admin\OneDrive\Máy tính\CNPM2\obj\Debug\CNPM2.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\CNPM2\obj\Debug\CNPM2.Properties.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\CNPM2\obj\Debug\CNPM2.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\CNPM2\obj\Debug\CNPM2.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\CNPM2\obj\Debug\CNPM2.exe
+C:\Users\admin\OneDrive\Máy tính\CNPM2\obj\Debug\CNPM2.pdb
